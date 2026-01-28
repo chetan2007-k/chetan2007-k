@@ -43,9 +43,17 @@
 ---
 
 ## 🌐 Connect With Me
-- 📺 **YouTube:** Sastra Vibes  
-- 💼 **LinkedIn:** (add link)  
-- 📧 **Email:** (optional)
+<p align="left">
+  <a href="https://www.linkedin.com/in/paidimarri-krishna-chetan" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.youtube.com/@Sastravibes" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-red?logo=youtube&logoColor=white" />
+  </a>
+  <a href="mailto:128014029@sastra.ac.in">
+    <img src="https://img.shields.io/badge/Email-sastra.ac.in-green?logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 ---
 
