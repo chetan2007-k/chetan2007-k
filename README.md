@@ -23,14 +23,6 @@
 
 ---
 
-## 📌 Projects
-- 🔐 **College Staff Management Web Portal**
-- 🧠 **Smart Suicide Prevention Ceiling Fan System**
-- 🏫 **Academic & Mini Projects @ SASTRA**
-- 🎨 **UI/UX Design (Miro)**
-
----
-
 ## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=chetan2007-k&show_icons=true&theme=tokyonight" />
